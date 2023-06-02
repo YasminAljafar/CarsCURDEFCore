@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CarAppModels",
+    "\\CarAppModels\\bin",
+    "\\CarAppModels\\Models"
   ],
+  "SelectedNode": "\\CarAppModels.sln",
   "PreviewInSolutionExplorer": false
 }
